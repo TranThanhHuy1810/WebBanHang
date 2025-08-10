@@ -1,0 +1,801 @@
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\DoAn2.dll.config
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\DoAn2.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\DoAn2.pdb
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csc.exe
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csc.exe.config
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csc.rsp
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csi.exe
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csi.exe.config
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csi.rsp
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.AppContext.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Collections.Immutable.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Console.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Globalization.Calendars.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.Compression.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.FileSystem.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Net.Http.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Net.Sockets.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Reflection.Metadata.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.ValueTuple.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.XPath.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\vbc.exe
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\vbc.exe.config
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\vbc.rsp
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\VBCSCompiler.exe
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\VBCSCompiler.exe.config
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Antlr3.Runtime.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Web.Infrastructure.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Helpers.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Mvc.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Optimization.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Razor.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Deployment.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Razor.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\WebGrease.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Helpers.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Mvc.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Optimization.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Razor.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Deployment.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Razor.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Antlr3.Runtime.pdb
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.csproj.AssemblyReference.cache
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.csproj.CoreCompileInputs.cache
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.csproj.CopyComplete
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.pdb
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.SqlServer.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.SqlServer.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.HashCode.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Data.SqlClient.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Design.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Options.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Primitives.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Identity.Client.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Logging.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Tokens.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Buffers.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Collections.Immutable.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.ComponentModel.Annotations.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Diagnostics.DiagnosticSource.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Memory.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Numerics.Vectors.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Threading.Tasks.Extensions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.HashCode.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Data.SqlClient.pdb
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Data.SqlClient.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Design.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Relational.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Options.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Primitives.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Identity.Client.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Logging.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Tokens.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Buffers.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Collections.Immutable.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Diagnostics.DiagnosticSource.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Memory.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Numerics.Vectors.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Threading.Tasks.Extensions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\de\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\es\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\fr\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\it\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\ja\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\ko\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\ru\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyModel.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.ObjectPool.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.WebEncoders.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Net.Http.Headers.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Win32.Registry.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.Bson.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Reflection.Metadata.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.AccessControl.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.Cryptography.Xml.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.Permissions.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.Principal.Windows.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Text.Encoding.CodePages.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Text.Encodings.Web.dll
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.pdb
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.ObjectPool.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.WebEncoders.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Net.Http.Headers.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.Bson.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Reflection.Metadata.xml
+D:\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Text.Encodings.Web.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\DoAn2.dll.config
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\DoAn2.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\DoAn2.pdb
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csc.exe
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csc.exe.config
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csc.rsp
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csi.exe
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csi.exe.config
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\csi.rsp
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.AppContext.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Console.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.Compression.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Net.Http.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Net.Sockets.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.ValueTuple.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\vbc.exe
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\vbc.exe.config
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\vbc.rsp
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\VBCSCompiler.exe
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Antlr3.Runtime.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.SqlServer.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.HashCode.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Data.SqlClient.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Options.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Identity.Client.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Win32.Registry.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.Bson.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Buffers.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Collections.Immutable.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.ComponentModel.Annotations.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Memory.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Numerics.Vectors.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Reflection.Metadata.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.AccessControl.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.Cryptography.Xml.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.Permissions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Security.Principal.Windows.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Text.Encoding.CodePages.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Text.Encodings.Web.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Helpers.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Mvc.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Optimization.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Razor.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Razor.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\WebGrease.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\EntityFramework.SqlServer.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Antiforgery.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Bcl.HashCode.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.pdb
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeAnalysis.Razor.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Data.SqlClient.pdb
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Data.SqlClient.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileProviders.Composite.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Localization.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Options.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Identity.Client.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.Bson.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Buffers.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Collections.Immutable.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Memory.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Numerics.Vectors.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Reflection.Metadata.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Text.Encodings.Web.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Helpers.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Mvc.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Optimization.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.Razor.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\System.Web.WebPages.Razor.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Newtonsoft.Json.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Antlr3.Runtime.pdb
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.csproj.AssemblyReference.cache
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.csproj.Up2Date
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.dll
+C:\Users\MY PC\Downloads\TranVoAnhVu_TranAnhTuan\DoAn2\obj\Debug\DoAn2.pdb
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.DiaSymReader.Native.x86.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\DoAn2.dll.config
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\DoAn2.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\DoAn2.pdb
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\csc.exe
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\csc.exe.config
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\csc.rsp
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\csi.exe
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\csi.exe.config
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\csi.rsp
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.Managed.Core.targets
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.AppContext.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Collections.Immutable.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Console.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Globalization.Calendars.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.IO.Compression.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.IO.FileSystem.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Net.Http.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Net.Sockets.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Reflection.Metadata.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.ValueTuple.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Xml.XmlDocument.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Xml.XPath.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\vbc.exe
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\vbc.exe.config
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\vbc.rsp
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\VBCSCompiler.exe
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\roslyn\VBCSCompiler.exe.config
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Antlr3.Runtime.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\EntityFramework.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\EntityFramework.SqlServer.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Antiforgery.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authentication.Core.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authorization.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.DataProtection.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.Extensions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.Features.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.JsonPatch.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Core.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Razor.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Razor.Language.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Routing.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.WebUtilities.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Bcl.HashCode.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.Razor.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Data.SqlClient.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.DotNet.PlatformAbstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.Design.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.Relational.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Caching.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Caching.Memory.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Configuration.Binder.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Configuration.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.DependencyModel.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.FileProviders.Composite.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Localization.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Localization.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Logging.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.ObjectPool.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Options.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Primitives.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.WebEncoders.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Identity.Client.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Logging.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Protocols.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Tokens.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Net.Http.Headers.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Web.Infrastructure.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Win32.Registry.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Newtonsoft.Json.Bson.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Newtonsoft.Json.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Buffers.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Collections.Immutable.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.ComponentModel.Annotations.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Diagnostics.DiagnosticSource.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Memory.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Numerics.Vectors.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Reflection.Metadata.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Runtime.CompilerServices.Unsafe.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Security.AccessControl.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Security.Cryptography.Xml.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Security.Permissions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Security.Principal.Windows.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Text.Encoding.CodePages.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Text.Encodings.Web.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Threading.Tasks.Extensions.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Helpers.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Mvc.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Optimization.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Razor.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.WebPages.Deployment.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.WebPages.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.WebPages.Razor.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\WebGrease.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\EntityFramework.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\EntityFramework.SqlServer.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Antiforgery.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authentication.Core.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authorization.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.DataProtection.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.Extensions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Http.Features.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.JsonPatch.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Core.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Razor.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Razor.Language.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Routing.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.AspNetCore.WebUtilities.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Bcl.AsyncInterfaces.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Bcl.HashCode.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.pdb
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.pdb
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.CSharp.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeAnalysis.Razor.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Data.SqlClient.pdb
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Data.SqlClient.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.Design.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.Relational.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.EntityFrameworkCore.SqlServer.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Caching.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Caching.Memory.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Configuration.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Configuration.Binder.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.FileProviders.Composite.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Localization.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Localization.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Logging.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.ObjectPool.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Options.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.Primitives.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Extensions.WebEncoders.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Identity.Client.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Logging.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Protocols.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.IdentityModel.Tokens.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.Net.Http.Headers.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Newtonsoft.Json.Bson.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Buffers.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Collections.Immutable.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Diagnostics.DiagnosticSource.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Memory.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Numerics.Vectors.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Reflection.Metadata.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Runtime.CompilerServices.Unsafe.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Text.Encodings.Web.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Threading.Tasks.Extensions.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Helpers.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Mvc.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Optimization.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.Razor.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.WebPages.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.WebPages.Deployment.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\System.Web.WebPages.Razor.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Newtonsoft.Json.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Antlr3.Runtime.pdb
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\de\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\es\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\fr\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\it\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\ja\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\ko\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\pt-BR\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\ru\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\obj\Debug\DoAn2.csproj.AssemblyReference.cache
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\obj\Debug\DoAn2.csproj.CoreCompileInputs.cache
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\obj\Debug\DoAn2.csproj.Up2Date
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\obj\Debug\DoAn2.dll
+E:\TranThanhHuy_TruongGiaHuy_DoAn2_Dh21tin06\DoAn2\obj\Debug\DoAn2.pdb
